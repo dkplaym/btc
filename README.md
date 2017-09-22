@@ -3,3 +3,8 @@
 
 -rwxrwxr-x 1 dk dk  4390768 Sep 22 15:25 bitcoin-0.15.0.1/src/bitcoin-cli     
 -rwxrwxr-x 1 dk dk 11365864 Sep 22 15:25 bitcoin-0.15.0.1/src/bitcoind
+
+
+./bitcoind -datadir=./    
+
+
